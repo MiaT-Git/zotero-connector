@@ -1,0 +1,12 @@
+.env
+credentials.json
+state/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+htmlcov/
+.coverage
+dist/
+*.egg-info/
